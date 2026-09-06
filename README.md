@@ -29,6 +29,13 @@
 <h2 align="center">Windows USB Disk Creator for macOS</h2>
 
 <div align="center">
+  <pre style="display: inline-block; text-align: center;">
+    ⚠️ <b>WARNING:</b> This project ONLY has a GitHub page! ⚠️
+    All other websites are <b>FAKE</b> and may contain <b>MALWARE</b>. 
+    This GitHub page is the ONLY official place where you can download this software.</pre>
+</div>
+
+<div align="center">
   <pre style="display: inline-block; text-align: left;">
     💖 Hey there! If you like my work, please <b><a href="#%EF%B8%8F-support-me-%EF%B8%8F-donations">support me financially!</a></b> 💖</pre></div>
 
