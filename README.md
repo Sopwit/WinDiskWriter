@@ -31,7 +31,7 @@
 <div align="center">
   <pre style="display: inline-block; text-align: center;">
     ⚠️ <b>WARNING:</b> This project ONLY has a GitHub page! ⚠️
-    All other websites are <b>FAKE</b> and may contain <b>MALWARE</b>. 
+    All other websites are <b>FAKE</b>. 
     This GitHub page is the ONLY official place where you can download this software.</pre>
 </div>
 
