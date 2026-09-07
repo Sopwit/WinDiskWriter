@@ -276,40 +276,6 @@ With this USB drive, you can install and enjoy <strong>Windows</strong> on your 
    <b>WinDiskWriter</b> optionally can use a <b>grub4dos</b> bootloader to enable Legacy BIOS Support. I would like to thank the developers of grub4dos for their great work.
 </p>
 
-<h2>❤️ Support Me ❤️ (Donations)</h2>
-<p align="center">
-  <a href="https://www.buymeacoffee.com/TechUnRestricted" target="_blank">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/arial-red.png" alt="Buy Me A Coffee" style="width: 280px !important;" >
-  </a>
-</p>
-<ul>
-  <li>
-    Bitcoin (BTC): <b>bc1qe2z68uwgplxfzspdy5pnxhzza2spep0ryk5zeq</b>
-  </li>
-  <li>
-    Toncoin [TON]: <b>UQC-4xGw9jowk93dWXHVVTUpboe2hb6GT3W4g6yxn3hphCYc</b>
-  </li>
-  <li>
-    Etherium (ETH): <b>0x1410acAc3e0De885f4fb8C305a2F7B586d47c5ff</b>
-  </li>
-  <li>
-    BNB Beacon Chain (BNB): <b>bnb1h2svmvj9842xk49qjflza4q8yqn2kd9dsxp9h9</b>
-  </li>
-  <li>
-    Tether USD [USDT] (<b>E</b>RC20): <b>0x1410acAc3e0De885f4fb8C305a2F7B586d47c5ff</b>
-  </li>
-  <li>
-    Tether USD [USDT] (<b>T</b>RC20): <b>TMRsfsEDMNwA1KYRTFHT55SxcFxyYQVzoH</b>
-  </li>
-</ul>
-
-<h2>Authors</h2>
-<ul>
-    <li>
-        <a href="https://www.github.com/TechUnRestricted">@TechUnRestricted</a>
-    </li>
-</ul>
-
 <h2>Software Used</h2>
 <ul>
     <li>
