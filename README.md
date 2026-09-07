@@ -34,16 +34,6 @@
     All other websites are <b>FAKE</b>. 
     This GitHub page is the ONLY official place where you can download this software.</pre>
 </div>
-
-<div align="center">
-  <pre style="display: inline-block; text-align: left;">
-    💖 Hey there! If you like my work, please <b><a href="#%EF%B8%8F-support-me-%EF%B8%8F-donations">support me financially!</a></b> 💖</pre></div>
-
-<p align="center">
-  <a href="https://www.buymeacoffee.com/TechUnRestricted">
-    <img src="BuyMeCoffee.svg" />
-  </a>
-<p>
   
 You can use this app to create bootable universal USB <strong>Windows installers</strong> that supports both <strong>UEFI</strong> and <strong>Legacy BIOS</strong> modes.<br>
 With this USB drive, you can install and enjoy <strong>Windows</strong> on your <strong>PC</strong>, <strong>Intel Mac</strong> or certain <strong>Virtual Machines</strong>.
@@ -64,8 +54,6 @@ With this USB drive, you can install and enjoy <strong>Windows</strong> on your 
   </li>
   <li><a href="#planned-changes">Planned Changes</a></li>
   <li><a href="#additional-information">Additional Information</a></li>
-  <li><a href="#%EF%B8%8F-support-me-%EF%B8%8F-donations">❤️ Support Me ❤️ (Donations)</a></li>
-  <li><a href="#authors">Authors</a></li>
   <li><a href="#software-used">Software Used</a></li>
 </ol>
 </b>
